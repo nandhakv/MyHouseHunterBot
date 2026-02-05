@@ -3,3 +3,4 @@ playwright
 openai
 schedule
 nest_asyncio
+requests
