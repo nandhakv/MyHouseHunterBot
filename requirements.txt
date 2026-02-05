@@ -1,0 +1,5 @@
+crawl4ai
+playwright
+openai
+schedule
+nest_asyncio
